@@ -1,7 +1,7 @@
 <h1> Easy Shopping </h1>
 <br>
 <br>
-<h2> Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub"> Dev Club </a>
+<h2> Esse foi um projeto responsivo que eu aprendi no <a href="https://rodolfomori.com.br/devclub"> Dev Club </a>
   
   <h3> Tecnologias Utilizadas </h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="hmtl-logo"> 
